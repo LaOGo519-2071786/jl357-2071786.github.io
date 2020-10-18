@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+</html>
+    <head>
+        <title>Junan Li's Dope Website</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/html/styles.css">
+        <style>
+            p.a {font: 15px Arial, sans-serif;}
+            p.b {font: italic small-caps bold 12px/30px Georgia, serif;}
+            h1 {border-style: dotted;}
+            h2 {border: double;}
+            p.ex1 {margin: 20px;}
+            .container {position: relative;text-align: center;color: white;}
+            .centered {position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+            #rcorners2 {border-radius: 25px;border: 2px solid #73AD21;padding: 20px; width: 200px;height: 150px;  }
+        </style>
+    </head>
+    <body>
+        <h1>Junan Li</h1>
+        <p class="b">LaO_Go</p>
+        <p class="a">L to the a to the O let's Go</p>
+        <h2>About me.</h2>
+        <p id="rcorners2">My name is Junan Li and currently a freshman in UW. I love practicing Karate&listening and writing Hiphop songs.</p>
+        <p class="ex1">Learning Info101 now.</p>
+        <ol>
+            <li>
+                <a href="http://youtube.com">YouTube</a>
+            </li>
+            <li>
+                <a href="http://winhost6.ischool.uw.edu/gclass">gClass</a>
+            </li>
+            <li>
+                <a href="http://facebook.com">Facebook</a>
+            </li>
+            <li>
+                <a href="http://myspace.com">Myspace</a>
+            </li>
+            <li>
+                <a href="http://google.com">Google</a>
+            </li>
+        </ol>
+        <h2>My favourite pictures          
+            <div class="container">
+            <img src="Logo+照片.jpg" alt="LaO_Go" style="width:200px;height:200px;margin:5px;">
+                <div class="centered">About me.</div>
+          </div>   
+          <a href="https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%9B%86%E5%9B%A2">
+            <img src="https://pic3.zhimg.com/80/v2-5c598409eda7c4c17e5117c5b96cffb2_1440w.jpg" title="CDC Corp" style="width:50px;height:50px;margin:5px;">
+        </a>
+        <a href="https://www.eminem.com">
+            <img src="https://static.billboard.com/files/media/01-Eminem-press-by-Craig-McDean-2019-billboard-1548-compressed.jpg" title="Eminem" style="width:50px;height:50px;margin:5px;">
+        </a>  
+        </h2>      
+    </body>
+<html>
